@@ -80,7 +80,11 @@ a{
 }
 
 .course-wrapper .header .image{
-
+    width: 30%;
+    height: 100%;
+    margin-right: 13%;
+    margin-left: 17%;
+    margin-top: -5%;
 }
 
 .course-wrapper .my-course{
